@@ -1,0 +1,1 @@
+{"jobs":[{"id":"demo-job-001","name":"Synthetic nightly ETL","scheduled":true,"tasks":[{"key":"extract"},{"key":"transform"}],"init_scripts":["dbfs:/example/bootstrap.sh"],"legacy_mounts":true},{"id":"demo-job-002","name":"Synthetic clean notebook task","scheduled":false,"tasks":[{"key":"task1"}]}]}
