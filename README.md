@@ -32,6 +32,12 @@ Here are some repositories from my earlier development work. I'm improving their
 
 > **In progress:** More examples focused on Spring Boot APIs, microservice design, integration testing, and developer automation.
 
+## 🚀 Portfolio projects
+
+- **[Stockholm Grocery Optimizer](projects/stockholm-grocery-optimizer)** — seven-store price comparison, unit pricing, membership rules, shopping-list allocation and exact weight-aware routing (offline demo; prices/distances must be supplied).
+- **[Serverless Migration Control Tower](projects/serverless-migration-control-tower)** — read-only Databricks-style job readiness scoring and blocker assessment using synthetic inventory (portfolio demo, not production migration automation).
+- **[Spring Boot + MinIO Service](https://github.com/abhidubey2193/minioService)** — object-storage REST API work in progress with CI workflow.
+
 ## 📈 GitHub activity
 
 ![GitHub contribution activity](https://github-readme-activity-graph.vercel.app/graph?username=abhidubey2193&theme=github-compact)
